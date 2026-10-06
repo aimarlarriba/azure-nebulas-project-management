@@ -31,7 +31,7 @@ Developed collaboratively by a team of six Computer Management and Information S
 
 | Team Member | Core Focus & Responsibilities |
 | :--- | :--- |
-| **Aimar Larriba Manzano** | **Requirements Engineering (User Stories), Scope Management, Risk Control Plan & Co-Author of Final Documentation** |
+| Aimar Larriba Manzano | Requirements Engineering (User Stories), Scope Management, Risk Control Plan & Co-Author of Final Documentation |
 | Jon Requies Ruiz | Project Governance, Sprint Planning & Scheduling |
 | Pablo Fernández González | Quality Assurance, Testing Metrics & Technical Evaluation |
 | Shaman Alonso Amezcua | Frontend Architecture & API Integration Lead |
