@@ -165,7 +165,7 @@ Abre `frontend/index.html` en tu navegador web (o sírvelo con cualquier servido
 ## 📄 Entregables Documentales
 
 * 📘 **[Documentacion_Final_Gestion_Proyectos.pdf](docs/Documentacion_Final_Gestion_Proyectos.pdf)**: Memoria académica oficial de 26 páginas con objetivos, análisis de desviaciones presupuestarias, seguimiento de riesgos y conclusiones.
-* 📕 **[Análisis de la IA Generativa.pdf](Análisis%20de%20la%20IA%20Generativa.pdf)**: Estudio comparativo empírico sobre el rendimiento de Claude, ChatGPT y Gemini.
+* 📕 **[Análisis de la IA Generativa.pdf](docs/Análisis%20de%20la%20IA%20Generativa.pdf)**: Estudio comparativo empírico sobre el rendimiento de Claude, ChatGPT y Gemini.
 
 ---
 

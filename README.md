@@ -165,7 +165,7 @@ Open `frontend/index.html` in your web browser (or serve it via any static file 
 ## 📄 Documentation Deliverables
 
 * 📘 **[Documentacion_Final_Gestion_Proyectos.pdf](docs/Documentacion_Final_Gestion_Proyectos.pdf)**: Official 26-page academic report covering initial objectives, budget variances, risk tracking, and organizational conclusions.
-* 📕 **[Análisis de la IA Generativa.pdf](Análisis%20de%20la%20IA%20Generativa.pdf)**: Empirical evaluation study on LLM utility across frontend, backend, and database domains.
+* 📕 **[Análisis de la IA Generativa.pdf](docs/Análisis%20de%20la%20IA%20Generativa.pdf)**: Empirical evaluation study on LLM utility across frontend, backend, and database domains.
 
 ---
 
