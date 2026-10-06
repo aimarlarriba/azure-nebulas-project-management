@@ -29,14 +29,14 @@ The team successfully delivered a fully functional full-stack web application (*
 
 Developed collaboratively by a team of six Computer Management and Information Systems Engineering students at the **University of the Basque Country (UPV/EHU)**:
 
-| Team Member | Core Focus & Responsibilities |
+| Team Member | Official Role & Responsibilities |
 | :--- | :--- |
-| Aimar Larriba Manzano | Requirements Engineering (User Stories), Scope Management, Risk Control Plan & Co-Author of Final Documentation |
-| Jon Requies Ruiz | Project Governance, Sprint Planning & Scheduling |
-| Pablo Fernández González | Quality Assurance, Testing Metrics & Technical Evaluation |
-| Shaman Alonso Amezcua | Frontend Architecture & API Integration Lead |
-| Marcos Cobo Gutiérrez | Backend Architecture, Repository Administration & Security |
-| Adrián Vinagre Castelló | Technical Documentation, Deployment & Environment Orchestration |
+| **Jon Requies Ruiz** | **Team President & Product Owner (PO)** — Budget Lead (Group 1), Sprint Planning & Deliverable Governance |
+| **Aimar Larriba Manzano** | **Risk Management Lead (Group 2)** — Official Speaker on Risk Tracking & Impact, OpenProject Gantt Manager, User Stories Audit & Frontend Technical Evaluator |
+| **Shaman Alonso Amezcua** | **Scrum Master (SM)** — Frontend Architecture Lead (Group 3), Multi-LLM Evaluation & Code Integration |
+| **Marcos Cobo Gutiérrez** | **Backend Architecture Lead (Group 3)** — GitHub Administration, Docker & Database Modeling |
+| **Adrián Vinagre Castelló** | **Team Secretary** — Budget Formulation (Group 1), Deliverables Coordination & Environment Setup Documentation |
+| **Pablo Fernández González** | **Risk Management Co-Lead (Group 2)** — Backend Technical Evaluator & Quality Control |
 
 ---
 

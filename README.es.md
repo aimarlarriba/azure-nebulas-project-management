@@ -29,14 +29,14 @@ El equipo entregó con éxito una aplicación web full-stack plenamente operativ
 
 Desarrollado en equipo por seis estudiantes del Grado en Ingeniería Informática de Gestión y Sistemas de Información de la **Universidad del País Vasco (UPV/EHU)**:
 
-| Integrante | Rol y Áreas de Responsabilidad Principal |
+| Integrante | Rol Oficial y Responsabilidades en el Proyecto |
 | :--- | :--- |
-| **Aimar Larriba Manzano** | **Ingeniería de Requisitos (User Stories), Gestión de Alcance, Plan de Control de Riesgos y Co-autor de la Documentación Final** |
-| Jon Requies Ruiz | Gobernanza del Proyecto, Planificación de Sprints y Cronograma |
-| Pablo Fernández González | Control de Calidad, Métricas de Testing y Evaluación Técnica |
-| Shaman Alonso Amezcua | Arquitectura Frontend y Liderazgo de Integración de API |
-| Marcos Cobo Gutiérrez | Arquitectura Backend, Administración del Repositorio y Seguridad |
-| Adrián Vinagre Castelló | Documentación Técnica, Despliegue y Orquestación del Entorno |
+| **Jon Requies Ruiz** | **Presidente del Grupo & Product Owner (PO)** — Liderazgo de Presupuesto (Grupo 1), Planificación y Reparto de Sprints |
+| **Aimar Larriba Manzano** | **Responsable del Plan de Riesgos (Grupo 2)** — Ponente Oficial en Presentación (Seguimiento e Impacto de Riesgos), Gestión de Diagrama de Gantt en OpenProject, Auditoría de User Stories y Evaluación Técnica de Frontend |
+| **Shaman Alonso Amezcua** | **Scrum Master (SM)** — Liderazgo de Arquitectura Frontend (Grupo 3), Evaluación de IAs e Integración de Código |
+| **Marcos Cobo Gutiérrez** | **Liderazgo de Arquitectura Backend (Grupo 3)** — Administración de GitHub, Docker y Modelado de Base de Datos |
+| **Adrián Vinagre Castelló** | **Secretario del Grupo** — Planificación Presupuestaria (Grupo 1), Coordinación de Entregables y Documentación de Entorno |
+| **Pablo Fernández González** | **Co-responsable del Plan de Riesgos (Grupo 2)** — Evaluación Técnica de Backend y Control de Pruebas |
 
 ---
 
